@@ -1,0 +1,5 @@
+[package]
+name = "sparse-merkle-tree"
+version = "0.1.0"
+authors = ["iorveth <aenseidheiorweth@gmail.com>"]
+edition = "2018"
